@@ -1,1 +1,5 @@
 "# Numele-Proiectului este GIT" 
+"## Func?ionalita?i note" 
+"- Adaugare note" 
+"- ?tergere note" 
+"- Editare note" 
